@@ -25,4 +25,4 @@ Information Technology Engineer with hands-on experience in Cybersecurity, SIEM 
 
 ## Links
 - Portfolio: https://soc-portfolio-am91.vercel.app/
-- LinkedIn: linkedin.com/in/mahavirsinh-dabhi
+- LinkedIn: https://www.linkedin.com/in/mahavirsinh-dabhi/

@@ -3,12 +3,13 @@
 Information Technology Engineer with hands-on experience in Cybersecurity, SIEM monitoring, log analysis, and incident response.
 
 ## Core Skills
-- SIEM & Log Analysis (Splunk)
-- SOC Monitoring & Incident Response
-- Security Event Investigation
-- SQL & Data Analytics
-- Python (basic automation)
-- GitHub & Documentation
+## Core Skills
+- SIEM & Detection: Splunk Enterprise, SPL, Sysmon, MITRE ATT&CK framework
+- Adversary Emulation: Atomic Red Team, attack technique validation
+- Incident Response: Alert triage, log analysis, IR playbook documentation
+- Scripting: Python (basic automation), Bash (basic)
+- OS & Tools: Windows, Linux (Kali), Splunk Universal Forwarder
+- Soft Skills: Technical documentation, English communication (written/verbal), procedure-driven workflows
 
 ## Featured Projects
 - SIEM-Detection-Engineering-Lab 

@@ -15,8 +15,6 @@ Information Technology Engineer with hands-on experience in Cybersecurity, SIEM 
 - SOC Home Lab – Splunk SIEM Attack Detection 
 - SOC Analyst Lab – Apache Log Analysis using Splunk  
 - Incident Response Playbook (7-Step SOC Workflow)  
-- SQL E-commerce Analytics  
-- Power BI Executive Dashboard  
 
 ## Career Focus
 - SOC Analyst (L1)

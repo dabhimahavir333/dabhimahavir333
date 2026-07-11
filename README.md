@@ -30,7 +30,7 @@ Seeking L1 SOC Analyst roles — remote or onsite.
 ## Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [SIEM-Detection-Engineering-Lab](link) | End-to-end Splunk SIEM pipeline for threat hunting | Splunk, Sysmon, MITRE ATT&CK, Atomic Red Team |
+| [SIEM-Detection-Engineering-La](https://github.com/dabhimahavir333/SIEM-Detection-Engineering-Lab) | End-to-end Splunk SIEM pipeline for threat hunting | Splunk, Sysmon, MITRE ATT&CK, Atomic Red Team |
 | [SOC Home Lab](link) | Attack simulation & detection on Windows vs Kali Linux | Splunk, Sysmon, Kali Linux |
 | [Apache Log Analysis](link) | Traffic monitoring & incident detection with Splunk | Splunk, Apache logs |
 | [Incident Response Playbook](link) | 7-step SOC workflow for web attacks | IR documentation |

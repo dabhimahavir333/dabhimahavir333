@@ -6,7 +6,7 @@ Building production-grade detection pipelines in my home lab.
 Seeking L1 SOC Analyst roles — remote or onsite.
 
 📍 Anand, Gujarat, India  
-📧 dabhimahavir333@gmail.com  
+📧 dabhimahavir1083@gmail.com  
 🔗 [Portfolio](https://soc-portfolio-am91.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/mahavirsinh-dabhi/)
 
 ---
